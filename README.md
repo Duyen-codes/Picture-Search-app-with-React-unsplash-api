@@ -8,3 +8,9 @@ This project uses unsplash api to fetch pictures and images
 - clone the project
 - run `npm install`
 - start the project by running `npm start`
+
+## Built with
+- Reactjs
+- unsplash API
+- React Class components
+- CSS
